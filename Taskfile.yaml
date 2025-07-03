@@ -1,0 +1,9 @@
+version: '3'
+
+tasks:
+  build:
+    cmds:
+      - sudo nobuild build {{.CLI_ARGS}}
+  clean:
+    cmds:
+      - sudo nobuild clean

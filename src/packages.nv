@@ -1,0 +1,24 @@
+# Folte package list
+
+# --- desktop experience ---
+kde-plasma-desktop
+
+# --- utility ---
+firefox-esr
+thunderbird
+
+# --- display manager ---
+lightdm
+slick-greeter
+
+# --- package-manager ---
+nala
+synaptic
+gdebi
+
+# --- installer ---
+calamares
+
+# --- system ---
+network-manager
+fonts-noto
